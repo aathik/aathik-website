@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/aathik-website/static/css/main.dbeff6b0.css",
+    "main.js": "/aathik-website/static/js/main.bf1d667e.js",
+    "static/media/abImg.jpg": "/aathik-website/static/media/abImg.0a4893421f4eb80a395c.jpg",
+    "static/media/Pro2.PNG": "/aathik-website/static/media/Pro2.54fd13b76d07302e103a.PNG",
+    "static/media/Pro1.PNG": "/aathik-website/static/media/Pro1.4852ecc60787469c652f.PNG",
+    "static/media/Img.jpg": "/aathik-website/static/media/Img.49275254f1a0ad2dc9c6.jpg",
+    "static/media/Me3.PNG": "/aathik-website/static/media/Me3.acc8819edb085d6de6d9.PNG",
+    "static/media/exp.png": "/aathik-website/static/media/exp.b6d064a50584355c4b2b.png",
+    "static/media/windows-img.png": "/aathik-website/static/media/windows-img.c9b156a763158ccc4c68.png",
+    "static/media/xampp-img.png": "/aathik-website/static/media/xampp-img.938402b0cda1aec667e0.png",
+    "static/media/android-img.png": "/aathik-website/static/media/android-img.6a36f1520007194e22e3.png",
+    "static/media/python-img.png": "/aathik-website/static/media/python-img.d8b377f05522bf35de36.png",
+    "static/media/linux-img.png": "/aathik-website/static/media/linux-img.b79d9a382fd8984cff12.png",
+    "static/media/firebase-img.png": "/aathik-website/static/media/firebase-img.8a70475cf11add99d353.png",
+    "static/media/sql-img.png": "/aathik-website/static/media/sql-img.910a4566f5d136d5196b.png",
+    "static/media/html-img.png": "/aathik-website/static/media/html-img.1d7b133e22ffe4829da6.png",
+    "static/media/css-img.png": "/aathik-website/static/media/css-img.9f33c557b92e4e2e1cc8.png",
+    "static/media/java-img.png": "/aathik-website/static/media/java-img.00ccd5bcff8d1b2d299e.png",
+    "static/media/Pro3.PNG": "/aathik-website/static/media/Pro3.27ed3097d73825f32ef3.PNG",
+    "static/media/js-img.png": "/aathik-website/static/media/js-img.1707d09a3f6f31bb97e8.png",
+    "static/media/c-img.png": "/aathik-website/static/media/c-img.83dfa097dfa94f707a41.png",
+    "static/media/sap-img.png": "/aathik-website/static/media/sap-img.90d3faf6ffac28f57b49.png",
+    "index.html": "/aathik-website/index.html",
+    "main.dbeff6b0.css.map": "/aathik-website/static/css/main.dbeff6b0.css.map",
+    "main.bf1d667e.js.map": "/aathik-website/static/js/main.bf1d667e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbeff6b0.css",
+    "static/js/main.bf1d667e.js"
+  ]
+}
