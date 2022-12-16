@@ -1,0 +1,80 @@
+.experience{
+    width: 100%;
+    background-color: hsla(173, 58%, 63%, 0.31);
+}
+
+.experience-container{  
+    max-width: 1440px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px; 
+    padding-bottom: 5rem;
+}
+
+.experience .experience-container .right{
+    height: 100%;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    border: 1px solid white;
+    border-radius: 25px;
+    background-color: white;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.experience .experience-container .right:hover{
+    transform: scale(1.05);
+    transition: all ease 500ms;
+}
+
+
+.experience .experience-container .left img{
+    width: 70%;
+    height: auto;
+    
+}
+
+.experience .experience-container p{
+    color: black;
+    font-weight: 200;
+}
+
+.experience .experience-container h3{
+    color: black;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.experience .experience-container h4{
+    color: black;
+    text-align: justify;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.experience .experience-container ul{
+    padding-left: 50px;
+    text-align: justify;
+}
+.experience .experience-container li{
+    font-weight: 200;
+    list-style-type: circle;
+    
+}
+
+@media screen and (max-width: 1000px) {
+    .experience-container{  
+        margin: auto;
+        grid-template-columns: 1fr;
+    }
+    .experience .experience-container .right{
+        max-width: 90%;
+        margin: auto;
+    }
+    .experience .experience-container .left img{
+        max-width: 50%;
+        margin: auto;
+    }
+}

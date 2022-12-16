@@ -1,0 +1,482 @@
+.skills{
+    padding-bottom: 5%;
+}
+.skills-container{
+    background-color: #62ffed30;
+    margin: auto;
+    width: 95%;
+    padding: 4rem;
+    border-radius: 25px;
+}
+
+.skills-container h3{
+    color: black;  
+    font-weight: 300; 
+    font-size: 23px;
+    letter-spacing: 5px;
+    padding: 1px;
+    width: fit-content;
+    text-decoration: underline dashed;
+    text-underline-offset: 10px;
+    padding: 10px 15px;
+}
+.skills-container h3:hover{
+    transform: scale(1.05);
+    transition: all ease 500ms;
+}
+
+.languages {
+    max-width: 1540px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 20px;
+    padding-bottom: 5rem;
+    padding-top: 2rem;
+}
+.skills h4{
+    color: black;
+    font-weight: 200;
+    
+}
+
+
+.python{
+    display: flex; 
+    margin: auto;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.114), 0 10px 10px rgba(0, 0, 0, 0.22);
+    width: 100%;
+    height: 9vh;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: white;
+}
+.python img{
+    width: 20%;
+}
+.python h4{
+    padding-left: 15%;
+    padding-top: 5%;
+    
+}
+.python:hover{
+    transform: scale(1.05);
+    transition: all ease 500ms;
+}
+.java{
+    display: flex; 
+    margin: auto;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.114), 0 10px 10px rgba(0, 0, 0, 0.22);
+    width: 100%;
+    height: 9vh;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: white;
+}
+.java img{
+    width: 20%;
+}
+.java h4{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.java:hover{
+    transform: scale(1.05);
+    transition: all ease 500ms;
+}
+.javascript{
+    display: flex; 
+    margin: auto;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.114), 0 10px 10px rgba(0, 0, 0, 0.22);
+    width: 100%;
+    height: 9vh;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: white;
+}
+.javascript img{
+    width: 20%;
+}
+.javascript h4{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.javascript:hover{
+    transform: scale(1.05);
+    transition: all ease 500ms;
+}
+.html{
+    display: flex; 
+    margin: auto;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.114), 0 10px 10px rgba(0, 0, 0, 0.22);
+    width: 100%;
+    height: 9vh;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: white;
+}
+.html img{
+    width: 20%;
+}
+.html h4{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.html:hover{
+    transform: scale(1.05);
+    transition: all ease 500ms;
+}
+.css{
+    display: flex; 
+    margin: auto;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.114), 0 10px 10px rgba(0, 0, 0, 0.22);
+    width: 100%;
+    height: 9vh;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: white;
+}
+.css img{
+    width: 20%;
+}
+.css:hover{
+    transform: scale(1.05);
+    transition: all ease 500ms;
+}
+.css h4{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.c{
+    display: flex; 
+    margin: auto;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.114), 0 10px 10px rgba(0, 0, 0, 0.22);
+    width: 100%;
+    height: 9vh;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: white;
+}
+.c img{
+    width: 20%;
+}
+.c h4{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.c:hover{
+    transform: scale(1.05);
+    transition: all ease 500ms;
+}
+.operating-systems{
+    max-width: 1540px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 20px;
+    padding-bottom: 5rem;
+    padding-top: 2rem;
+}
+
+.windows{
+    display: flex; 
+    margin: auto;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.114), 0 10px 10px rgba(0, 0, 0, 0.22);
+    width: 100%;
+    height: 9vh;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: white;
+}
+.windows img{
+    width: 20%;
+}
+.windows h4{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.windows:hover{
+    transform: scale(1.05);
+    transition: all ease 500ms;
+}
+.linux{
+    display: flex; 
+    margin: auto;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.114), 0 10px 10px rgba(0, 0, 0, 0.22);
+    width: 100%;
+    height: 9vh;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: white;
+}
+.linux img{
+    width: 20%;
+}
+.linux h4{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.linux:hover{
+    transform: scale(1.05);
+    transition: all ease 500ms;
+}
+
+.database{
+    max-width: 1540px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 20px;
+    padding-bottom: 5rem;
+    padding-top: 2rem;
+}
+
+.sql{
+    display: flex; 
+    margin: auto;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.114), 0 10px 10px rgba(0, 0, 0, 0.22);
+    width: 100%;
+    height: 9vh;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: white;
+}
+.sql img{
+    width: 20%;
+}
+.sql h4{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.sql:hover{
+    transform: scale(1.05);
+    transition: all ease 500ms;
+}
+.firebase{
+    display: flex; 
+    margin: auto;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.114), 0 10px 10px rgba(0, 0, 0, 0.22);
+    width: 100%;
+    height: 9vh;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: white;
+}
+.firebase img{
+    width: 20%;
+}
+.firebase h4{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.firebase:hover{
+    transform: scale(1.05);
+    transition: all ease 500ms;
+}
+.xampp{
+    display: flex; 
+    margin: auto;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.114), 0 10px 10px rgba(0, 0, 0, 0.22);
+    width: 100%;
+    height: 9vh;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: white;
+}
+.xampp img{
+    width: 20%;
+}
+.xampp h4{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.xampp:hover{
+    transform: scale(1.05);
+    transition: all ease 500ms;
+}
+
+.tools{
+    max-width: 1540px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 20px;
+    padding-bottom: 5rem;
+    padding-top: 2rem;
+}
+
+.android{
+    display: flex; 
+    margin: auto;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.114), 0 10px 10px rgba(0, 0, 0, 0.22);
+    width: 100%;
+    height: 9vh;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: white;
+}
+.android img{
+    width: 20%;
+}
+.android h4{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.android:hover{
+    transform: scale(1.05);
+    transition: all ease 500ms;
+}
+.SAP{
+    display: flex; 
+    margin: auto;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.114), 0 10px 10px rgba(0, 0, 0, 0.22);
+    width: 100%;
+    height: 9vh;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: white;
+}
+.SAP img{
+    width: 20%;
+}
+.SAP h4{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.SAP:hover{
+    transform: scale(1.05);
+    transition: all ease 500ms;
+}
+
+.soft-skills{
+    max-width: 1540px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 20px;
+    padding-bottom: 5rem;
+    padding-top: 2rem;
+}
+
+ .CircularProgressbar {
+    width: 20vh;
+    vertical-align: middle;
+  }
+  .CircularProgressbar:hover{
+    transform: scale(1.2);
+    transition: all ease 500ms;
+}
+  .leadership .CircularProgressbar .CircularProgressbar-path {
+    stroke: #ff3d9ecd;
+    stroke-linecap: round;
+    transition: stroke-dashoffset 0.5s ease 0s;
+  }
+
+  .motivation .CircularProgressbar .CircularProgressbar-path {
+    stroke: #eebb4d;
+    stroke-linecap: round;
+    transition: stroke-dashoffset 0.5s ease 0s;
+  }
+
+  .hard-working .CircularProgressbar .CircularProgressbar-path{
+    stroke: #2dca73;
+    stroke-linecap: round;
+    transition: stroke-dashoffset 0.5s ease 0s;
+  }
+  
+  .fast-learner .CircularProgressbar .CircularProgressbar-path{
+    stroke: #00c9e3;
+    stroke-linecap: round;
+    transition: stroke-dashoffset 0.5s ease 0s;
+  }
+
+  .teamwork .CircularProgressbar .CircularProgressbar-path{
+    stroke: #ed63d2;
+    stroke-linecap: round;
+    transition: stroke-dashoffset 0.5s ease 0s;
+  }
+  
+  .communication .CircularProgressbar .CircularProgressbar-path{
+    stroke: #ff7c7c;
+    stroke-linecap: round;
+    transition: stroke-dashoffset 0.5s ease 0s;
+  }
+  .CircularProgressbar .CircularProgressbar-trail {
+    stroke: #dafff6;
+    stroke-linecap: round;
+  }
+  
+  .CircularProgressbar .CircularProgressbar-text {
+    fill: white;
+    font-size: 10px;
+    text-anchor: middle;
+  }
+  
+  .CircularProgressbar .CircularProgressbar-background {
+    fill: #2222d2b0;
+  }
+  
+  @media screen and (max-width: 1200px) {
+    .languages{
+        max-width: 70%;
+        margin: auto;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .operating-systems{
+        max-width: 70%;
+        margin: auto;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .database{
+        max-width: 70%;
+        margin: auto;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .tools{
+        max-width: 70%;
+        margin: auto;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .soft-skills{
+        max-width: 70%;
+        margin: auto;
+        grid-template-columns: repeat(2, 1fr);
+        
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .skills-container{
+        width: 100%;
+    }
+    .skills-container h4{
+        font-size: 1rem;
+        margin: auto;
+        padding-top: 1%;
+    }
+    
+    .languages{
+        max-width: 100%;
+        grid-template-columns: 1fr;
+    }
+    .operating-systems{
+        max-width: 100%;
+        
+        grid-template-columns: 1fr;
+    }
+    .database{
+        max-width: 100%;
+       
+        grid-template-columns: 1fr;
+    }
+    .tools{
+        max-width: 100%;
+        grid-template-columns: 1fr;
+    }
+    .soft-skills{
+        max-width: 100%;
+        grid-template-columns: 1fr;
+        scale: 1;
+        
+    }
+}

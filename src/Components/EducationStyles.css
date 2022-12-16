@@ -1,0 +1,114 @@
+.education{
+    background-color: white;
+    
+}
+
+.head{
+    color: black;
+    text-align: center;
+    padding-top: 3%;
+    font-weight: 300;
+    padding-bottom: 3%;
+}
+
+.education-container{  
+    max-width: 1140px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 40px;
+    padding-bottom: 5rem;
+}
+
+
+.education .education-container .masters{
+   
+    padding: 1.2rem 1rem;
+    
+    border: 1px solid white;
+    background-color: #62ffed30;
+    border-radius: 25px;
+    text-align: justify;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    
+}
+
+.masters:hover{
+    transform: scale(1.05);
+    transition: all ease 500ms;
+}
+
+
+.education .education-container .college{
+    
+    padding: 1.2rem 1rem;
+    border: 1px solid white;
+    background-color: #62ffed30;
+    border-radius: 25px;
+    text-align: justify;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.college:hover{
+    transform: scale(1.05);
+    transition: all ease 500ms;
+}
+
+.education .education-container .school{
+    
+    padding: 1.2rem 1rem;
+    
+    border: 1px solid white;
+    background-color: #62ffed30;
+    border-radius: 25px;
+    text-align: justify;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.school:hover{
+    transform: scale(1.05);
+    transition: all ease 500ms;
+}
+
+.education .education-container .school2{
+    
+    padding: 1.2rem 1rem;
+    
+    border: 1px solid white;
+    background-color: #62ffed30;
+    border-radius: 25px;
+    text-align: justify;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.school2:hover{
+    transform: scale(1.05);
+    transition: all ease 500ms;
+}
+
+.education p{
+    color: black;
+    text-align: justify;
+    font-weight: 200;
+    line-height: 30px;
+}
+
+.education h4{
+    color: black;
+    text-align: justify;
+    font-weight: 400;
+}
+
+.date{
+    float: right;
+    font-weight: 200;
+    font-size: 14px;
+}
+
+@media screen and (max-width: 1000px) {
+    .education-container{
+        max-width: 90%;
+        margin: auto;
+        grid-template-columns: 1fr;
+    }
+}
