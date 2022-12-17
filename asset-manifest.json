@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aathik-website/static/css/main.777da753.css",
+    "main.css": "/aathik-website/static/css/main.237827d2.css",
     "main.js": "/aathik-website/static/js/main.046e2c97.js",
     "static/media/abImg.jpg": "/aathik-website/static/media/abImg.0a4893421f4eb80a395c.jpg",
     "static/media/Pro2.PNG": "/aathik-website/static/media/Pro2.54fd13b76d07302e103a.PNG",
@@ -23,11 +23,11 @@
     "static/media/c-img.png": "/aathik-website/static/media/c-img.83dfa097dfa94f707a41.png",
     "static/media/sap-img.png": "/aathik-website/static/media/sap-img.90d3faf6ffac28f57b49.png",
     "index.html": "/aathik-website/index.html",
-    "main.777da753.css.map": "/aathik-website/static/css/main.777da753.css.map",
+    "main.237827d2.css.map": "/aathik-website/static/css/main.237827d2.css.map",
     "main.046e2c97.js.map": "/aathik-website/static/js/main.046e2c97.js.map"
   },
   "entrypoints": [
-    "static/css/main.777da753.css",
+    "static/css/main.237827d2.css",
     "static/js/main.046e2c97.js"
   ]
 }
