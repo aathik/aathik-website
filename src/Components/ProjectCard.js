@@ -9,9 +9,11 @@ const ProjectCard = (props) => {
         <img src={props.imgsrc} alt="proj"/>
         <h2 className="project-title">{props.title}</h2>
         <div className="pro-details">
-            <p>{props.text}</p>
+            <div className='pro-text'>
+              <p>{props.text}</p>
+            </div>
             <div className="pro-btns">
-                <a  class="btn" href={props.view} rel='noopener' target='_blank'>SOURCE</a>
+                <a  class="btn" href={props.view} rel='noreferrer' target='_blank'>SOURCE</a>
                 
             </div>
         </div>

@@ -68,18 +68,21 @@
         margin: auto;
     }
     .About .about-container .right .abt-img{
-        max-width: 50%;
+        max-width: 100%;
         margin: auto;
+    }
+    .abt-btns{
+        padding-top: 20%;
     }
 }
 
-@media screen and (max-width: 400px){
+@media screen and (max-width: 450px){
     .About .about-container .left{
         max-width: 90%;
         margin: auto;
     }
     .About .about-container .right .abt-img{
-        max-width: 90%;
+        max-width: 100%;
         margin: auto;
     }
     .About .about-container h1{
@@ -88,5 +91,7 @@
     .About .about-container p{
         font-size: 1rem;
     }
-
+    .abt-btns{
+        padding-top: 20%;
+    }
 }

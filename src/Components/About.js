@@ -15,7 +15,7 @@ const About = () => {
                     Always eager to learn new things and looking forward for opportunities to showcase my skills to the world!
                 </p>
                 <div className="abt-btns">
-                    <a href='https://drive.google.com/file/d/1LmtX7lkkYpOlTCPD_uwe8LLUTvgFLeKe/view?usp=sharing' className="btn" rel='noopener' target='_blank'>My Resume</a>
+                    <a href='https://drive.google.com/file/d/1LmtX7lkkYpOlTCPD_uwe8LLUTvgFLeKe/view?usp=sharing' className="btn" rel='noreferrer' target='_blank'>My Resume</a>
                 </div>
             </div>
             <div className='right'>

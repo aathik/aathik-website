@@ -15,7 +15,7 @@ const Footer = () => {
                     }}/>aathiktr@gmail.com</h4>
                 </div>
                 <div className="email">
-                    <a target='_blank' href="https://www.linkedin.com/in/aathiktr/" ><FaLinkedin size={20} style={{
+                    <a target='_blank' href="https://www.linkedin.com/in/aathiktr/" rel='noreferrer'><FaLinkedin size={20} style={{
                         color:"white", marginRight:"2rem"
                     }}/>aathiktr</a>
                 </div>
@@ -35,7 +35,7 @@ const Footer = () => {
             <hr className="white-line"></hr>
         </div>
         <div className="copyright">
-            <p><FaCopyright size={20} style={{color:"white", marginRight:"10px"}}/>Copyrights by <span><a href='https://github.com/aathik' target='_blank'>https://github.com/aathik</a></span></p>
+            <p><FaCopyright size={20} style={{color:"white", marginRight:"10px"}}/>Copyrights by <span><a href='https://github.com/aathik' target='_blank' rel='noreferrer'>https://github.com/aathik</a></span></p>
         </div>
     </div>
   )
